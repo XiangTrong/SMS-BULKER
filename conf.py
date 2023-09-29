@@ -1,0 +1,3 @@
+VONAGE_API_KEY      = 'cc0942fc'
+VONAGE_API_SECRET   = '7hHcZVaGx5xS7AgO'
+FROM_NUMBER = 'Nexmo' 
